@@ -57,6 +57,6 @@ Este projeto tem como principal objetivo identificar possíveis fraudes em entre
 ## 👤 Autor
 
 **Luis Fernando Fedrizi**  
-Cientista de Dados em transição  
+Cientista de Dados  
 📧 fernando.fedrizi@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/luisfedrizi)
