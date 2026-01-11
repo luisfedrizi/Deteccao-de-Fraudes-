@@ -47,7 +47,7 @@ Este projeto tem como principal objetivo identificar possíveis fraudes em entre
 ## 📊 KPIs Principais
 
 ### 🟦 Página 1 — KPIs e Filtros
-<img src="_Luis/__Data Science course_Florida 2024/Downloads Modulos do curso/PROJETO FINAL/imagens/Walmartscreen1.png" width="900"/>
+<img src="_Luis\__Data Science course_Florida 2024\Downloads Modulos do curso\PROJETO FINAL\imagens/Walmartscreen1.png" width="900"/>
 
 ---
 
