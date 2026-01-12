@@ -68,7 +68,7 @@ Este projeto tem como principal objetivo identificar possíveis fraudes em entre
 
 ## 📎 Relatório final
 
-📥 [Acesse o PDF aqui](./Projeto Data Science_Luis Fedrizi_VFinal.pdf)
+[📄 Clique aqui para visualizar o Relatório Final](https://drive.google.com/file/d/1N9jNujY7fKAx6WHKyPeOp5R3Okstyy6R/view?usp=sharing)
 
 ---
 
