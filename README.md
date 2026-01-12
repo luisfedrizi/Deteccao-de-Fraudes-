@@ -78,3 +78,4 @@ Este projeto tem como principal objetivo identificar possíveis fraudes em entre
 Cientista de Dados  
 📧 fernando.fedrizi@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/luisfedrizi)
+Portfólio GitHub: https://github.com/luisfedrizi
