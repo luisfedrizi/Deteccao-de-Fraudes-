@@ -47,22 +47,22 @@ Este projeto tem como principal objetivo identificar possíveis fraudes em entre
 ## 📊 KPIs Principais
 
 ### 🟦 Página 1 — KPIs e Filtros
-<img src="luisfedrizi/imagens/Walmartscreen1.png" width="900"/>
+<img src="https://raw.githubusercontent.com/luisfedrizi/imagens/main/Walmartscreen1.png" width="900"/>
 
 ---
 
 ## 📈 Tendência Mensal de Perdas
-<img src="imagens/Walmartscreen2.png" width="900"/>
+<img src="https://raw.githubusercontent.com/luisfedrizi/imagens/main/Walmartscreen2.png" width="900"/>
 
 ---
 
 ## 🚚 Motoristas e Produtos Críticos
-<img src="imagens/Walmartscreen3.png" width="900"/>
+<img src="https://raw.githubusercontent.com/luisfedrizi/imagens/main/Walmartscreen3.png" width="900"/>
 
 ---
 
 ## 🔥 Score de Risco e Mapa de Reincidência
-<img src="imagens/Walmartscreen4.png" width="900"/>
+<img src="https://raw.githubusercontent.com/luisfedrizi/imagens/main/Walmartscreen4.png" width="900"/>
 
 ---
 
